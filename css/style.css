@@ -29,3 +29,19 @@
 .nav p {
 	margin-left: 2em;
 }
+
+.main {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin: 1em 2em;
+}
+
+.content {
+	max-width: 90%;
+	display: flex;
+}
+
+.content .text p {
+	font-size: 18px;
+}
