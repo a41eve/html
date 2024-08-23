@@ -1,0 +1,31 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-size: 18px;
+}
+
+.header {
+	padding: 0.7em 2em;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #000;
+}
+
+.header .header_logo {
+	color: #fff;
+}
+
+.header_logo h1 {
+	font-size: 55px;
+}
+
+.header .navigation .nav {
+	display: flex;
+	flex-wrap: wrap;
+	color: #fff;
+}
+
+.nav p {
+	margin-left: 2em;
+}
